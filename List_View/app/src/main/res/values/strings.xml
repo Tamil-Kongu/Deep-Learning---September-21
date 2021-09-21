@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">List_View</string>
+    <string-array name="space">
+        <item>ISRO</item>
+        <item>SPACEX</item>
+        <item>BLUE ORIGIN</item>
+    </string-array>
+</resources>
